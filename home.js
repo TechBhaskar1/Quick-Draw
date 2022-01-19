@@ -61,7 +61,7 @@ function start() {
 
     background("white");
     t = setInterval(timer, 1000);
-    
+
     document.getElementById("result").innerHTML = "Result :-";
 
 
